@@ -9,5 +9,19 @@
 - Promote business growth: Can be shared/exposed safely so that it can be integrated with other applications. Example - Marriot hotel booking can be integrated into many applications.
 - Cross-platform communication: It is independent of client & server languages. Front-end/Client Angular/Typescript. Backend/Server - Java.
 
+### Types of APIs
 
+Dependending on the category, they can be different types.
+
+#### Category I - Access
+1. Public APIs
+2. Private APIs
+3. Partner APIs
+4. Composite APIs
+
+#### Category II - Communication
+1. SOAP APIs - exchange messages using XML
+2. REST APIs - The client sends requests to the server as data.
+3. RPC APIs - exchange messages as function/procedure
+4. Websocket APIs - exchange messages using JSON. 2-way communication. Connectivity establishes once and happens synchronously.
 
