@@ -8,11 +8,11 @@
 #### Variables:
 - Scopes: global < collection < environment < data < local.
 
-### Scripting:
+#### Scripting:
 - Postman has rich editor supporting javascript. It has 2 editors - Pre-request script & Test
 - Execution order of scripts -  Pre-request script > Request > Response > Test
 
-### Best Testing practices:
+#### Best Testing practices:
 - Create Environment/Global/Collection variables to dynamically switch end points of APIs to test in different stages of QA Life cycle
 - Use property transfer between requests
 - Generate dynamic values when required into input payload
