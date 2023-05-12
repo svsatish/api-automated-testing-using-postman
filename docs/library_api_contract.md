@@ -53,10 +53,10 @@ Method : GET
 Output Json:
 ```json
 {
-      "book_name": "Selenium automation using Java",
-      "isbn": "a23hd738",
-      "aisle": "1223"
-   } 
+"book_name": "Selenium automation using Java",
+"isbn": "a23hd738",
+"aisle": "1223"
+} 
 ```
 
 4. Delete Book Resource :/Library/DeleteBook.php
