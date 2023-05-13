@@ -41,9 +41,9 @@ Output the array of Json object books with all below details
 ```json 
 [
 {
-Name : “bookname”,
-Isbn :  “A2fdsf”,
-Aisle : 32
+Name: “bookname”,
+Isbn:  “A2fdsf”,
+Aisle: 32
 }
 ]
 ```
@@ -75,6 +75,6 @@ Input Payload Json:
 Output Response:
 ```json
 {
-msg : "book is successfully deleted"
+msg: "book is successfully deleted"
 }
 ```
