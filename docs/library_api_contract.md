@@ -39,11 +39,13 @@ Output Json:
 
 Output the array of Json object books with all below details 
 ```json 
+[
 {
-Name : “bookname”   ( String)
-Isbn :  “A2fdsf”   (String)
-Aisle : 32 (Integer)
+Name : “bookname”,
+Isbn :  “A2fdsf”,
+Aisle : 32
 }
+]
 ```
 
 3. Get Book by ID Resource: Library/GetBook.php?ID=3389
@@ -73,6 +75,6 @@ Input Payload Json:
 Output Response:
 ```json
 {
-msg : book is successfully deleted”
+msg : "book is successfully deleted"
 }
 ```
