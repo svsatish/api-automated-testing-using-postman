@@ -41,8 +41,8 @@ Output the array of Json object books with all below details
 ```json 
 [
 {
-"Name": “bookname”,
-"Isbn":  “A2fdsf”,
+"Name": "bookname",
+"Isbn":  "A2fdsf",
 "Aisle": 32
 }
 ]
